@@ -1,0 +1,46 @@
+.App {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.pass__length {
+  width: 100%;
+  padding: 5px;
+}
+
+.addNum__pass {
+  margin: 10px 0px;
+}
+
+.gen__pass {
+  margin-bottom: 10px;
+}
+
+.genPass__btn {
+  width: 100%;
+  background-color: rgb(11, 185, 63);
+  border: none;
+  padding: 5px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pass__info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.gen__pass-input {
+  width: 80%;
+  padding: 5px;
+}
+
+.copy__pass {
+  padding: 7px;
+  background-color: cornflowerblue;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
